@@ -1,0 +1,9 @@
+﻿<Application x:Class="files_to_one_dir.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:files_to_one_dir"
+             StartupUri="WdMain.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
